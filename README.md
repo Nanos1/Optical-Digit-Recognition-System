@@ -1,2 +1,3 @@
 # Optical-Digit-Recognition-System
+This is a project for Pattern Recognition course in Data Science and Machine Learning master programme in NTUA.
 The scope of this exercise is the implementation of an optical digit recognition system. Our dataset comes from US Postal Service, written by hand (scanned from postal envelopes) and contains digits from 0 to 9 separated in train and test set. We are given two text files (train.txt and text.txt). Each line corresponds to a sample-digit and each collumn corresponds to a features of the digit. For example, the value (i, j) is the j-th feature of the i-th digit. Every digit is described from 257 values. The first value is the class (if it is 0, 1 etc) and the rest 256 values are the pixels that describe it in grayscale.
